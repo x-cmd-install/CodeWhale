@@ -1,0 +1,68 @@
+about:
+  description: Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+  license: MIT
+  homepage: https://codewhale.net/
+  head: 35a6aec
+  archived: false
+  latestVersion: v0.9.11
+  collectedAt: 2026-08-29T07:29:54Z
+timeline:
+  created: 2026-01-19
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-23
+popularity:
+  star: 40862
+  watcher: 160
+  fork: 3540
+  release: 135
+  contributor: 211
+  pullRequest: 1115
+  issue: 2558
+language:
+  Rust: 38416261
+  TypeScript: 1164059
+  JavaScript: 665167
+  Python: 393683
+  Shell: 270496
+  CSS: 109432
+  HTML: 26007
+  PowerShell: 24499
+  Gherkin: 21117
+  Nix: 6567
+  NSIS: 6457
+  Dockerfile: 5353
+  Batchfile: 2444
+totalLine: 41111542
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 10
+    mergedPR: 295
+    openPR: 23
+    closedIssue: 245
+    openIssue: 40
+    commit: 1875
+  last90d:
+    since: 2026-05-31
+    release: 32
+    mergedPR: 1244
+    openPR: 23
+    closedIssue: 1250
+    openIssue: 87
+    commit: 5242
+  last180d:
+    since: 2026-03-02
+    release: 100
+    mergedPR: 1829
+    openPR: 23
+    closedIssue: 2451
+    openIssue: 107
+    commit: 6854
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 1832
+    openPR: 23
+    closedIssue: 2451
+    openIssue: 107
+    commit: 6941
