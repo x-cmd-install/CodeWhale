@@ -1,0 +1,231 @@
+about:
+  description: "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome."
+  license: MIT
+  homepage: https://codewhale.net/
+  head: d5beab0
+  archived: false
+  latestVersion: "v0.9.12"
+  collectedAt: 2026-09-07T04:37:01Z
+timeline:
+  created: 2026-01-19
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-05
+popularity:
+  star: 40914
+  watcher: 167
+  fork: 3546
+  release: 136
+  contributor: 215
+  pullRequest: 3137
+  issue: 2643
+language:
+  Rust: 41981525
+  TypeScript: 1496824
+  JavaScript: 917045
+  Python: 441255
+  Shell: 300759
+  CSS: 130622
+  HTML: 29585
+  PowerShell: 24499
+  Gherkin: 21215
+  Dockerfile: 10606
+  Nix: 6567
+  NSIS: 6457
+  Batchfile: 2444
+totalBytes: 45369403
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 9
+    mergedPR: 336
+    openPR: 10
+    closedIssue: 177
+    openIssue: 42
+    commit: 0
+  last60d:
+    since: 2026-07-09
+    release: 13
+    mergedPR: 746
+    openPR: 10
+    closedIssue: 585
+    openIssue: 58
+    commit: 0
+  last90d:
+    since: 2026-06-09
+    release: 26
+    mergedPR: 1255
+    openPR: 10
+    closedIssue: 1207
+    openIssue: 74
+    commit: 0
+  last180d:
+    since: 2026-03-11
+    release: 100
+    mergedPR: 1980
+    openPR: 10
+    closedIssue: 2559
+    openIssue: 84
+    commit: 0
+  last360d:
+    since: 2025-09-12
+    release: 100
+    mergedPR: 1983
+    openPR: 10
+    closedIssue: 2559
+    openIssue: 84
+    commit: 0
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 1983
+    openPR: 10
+    closedIssue: 2559
+    openIssue: 84
+    commit: 9085
+total:
+  release: 136
+  mergedPR: 1983
+  openPR: 10
+  closedIssue: 2559
+  openIssue: 84
+  commit: 9085
+---
+path: /home/runner/.x-repo/github.com/Hmbown/CodeWhale
+collectedAt: 2026-09-07T04:37:32Z
+loc:
+  Rust:
+    code: 917448
+    comments: 38655
+    blanks: 73064
+    files: 999
+  Json:
+    code: 63956
+    comments: 0
+    blanks: 0
+    files: 68
+  JavaScript:
+    code: 22163
+    comments: 1059
+    blanks: 1785
+    files: 97
+  TypeScript:
+    code: 20014
+    comments: 2557
+    blanks: 2047
+    files: 213
+  Python:
+    code: 9722
+    comments: 355
+    blanks: 1300
+    files: 33
+  Tsx:
+    code: 8115
+    comments: 753
+    blanks: 585
+    files: 83
+  Sh:
+    code: 6213
+    comments: 852
+    blanks: 831
+    files: 57
+  Css:
+    code: 4552
+    comments: 296
+    blanks: 755
+    files: 3
+  Toml:
+    code: 953
+    comments: 1650
+    blanks: 203
+    files: 30
+  PowerShell:
+    code: 641
+    comments: 0
+    blanks: 70
+    files: 6
+  Html:
+    code: 497
+    comments: 8
+    blanks: 45
+    files: 3
+  Gherkin:
+    code: 357
+    comments: 12
+    blanks: 38
+    files: 10
+  Nix:
+    code: 194
+    comments: 25
+    blanks: 22
+    files: 2
+  Dockerfile:
+    code: 131
+    comments: 76
+    blanks: 26
+    files: 3
+  Yaml:
+    code: 124
+    comments: 23
+    blanks: 5
+    files: 2
+  Batch:
+    code: 65
+    comments: 2
+    blanks: 10
+    files: 3
+  Svg:
+    code: 13
+    comments: 6
+    blanks: 0
+    files: 11
+  Markdown:
+    code: 0
+    comments: 46834
+    blanks: 10260
+    files: 252
+  Text:
+    code: 0
+    comments: 5850
+    blanks: 721
+    files: 44
+total:
+  code: 1059792
+  comments: 156384
+  blanks: 97111
+  files: 1919
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:37:34+00:00
+  platform:
+    darwin/arm64:
+      name:  codewhale-macos-arm64.tar.gz
+      url:   https://github.com/Hmbown/Codewhale/releases/download/v0.9.12/codewhale-macos-arm64.tar.gz
+      size:  54424073
+      score: 43
+    darwin/amd64:
+      name:  codewhale-macos-x64.tar.gz
+      url:   https://github.com/Hmbown/Codewhale/releases/download/v0.9.12/codewhale-macos-x64.tar.gz
+      size:  58207681
+      score: 43
+    linux/arm64:
+      name:  codewhale-linux-arm64.tar.gz
+      url:   https://github.com/Hmbown/Codewhale/releases/download/v0.9.12/codewhale-linux-arm64.tar.gz
+      size:  55200309
+      score: 43
+    linux/amd64:
+      name:  codewhale-linux-x64.tar.gz
+      url:   https://github.com/Hmbown/Codewhale/releases/download/v0.9.12/codewhale-linux-x64.tar.gz
+      size:  59469714
+      score: 43
+    win/arm64:
+      name:  codewhale-windows-arm64-portable.zip
+      url:   https://github.com/Hmbown/Codewhale/releases/download/v0.9.12/codewhale-windows-arm64-portable.zip
+      size:  57944132
+      score: 43
+    win/amd64:
+      name:  codewhale-windows-x64.zip
+      url:   https://github.com/Hmbown/Codewhale/releases/download/v0.9.12/codewhale-windows-x64.zip
+      size:  62026349
+      score: 43
