@@ -7,7 +7,7 @@ Open-source coding agent for your terminal, built in Rust and on a journey of co
 - **Latest release**: `v0.9.12` (2026-09-05)
 - **Last commit**: 2026-09-07
 - **License**: MIT
-- **Stars**: 40933 · **Forks**: 3552 · **Open issues**: 2661 · **Contributors**: 216
+- **Stars**: 40937 · **Forks**: 3553 · **Open issues**: 2665 · **Contributors**: 216
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/CodeWhale> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:57:07Z._
+_Last regenerated: 2026-09-09T04:50:03Z._
