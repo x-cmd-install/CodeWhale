@@ -2,29 +2,29 @@ about:
   description: "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome."
   license: MIT
   homepage: https://codewhale.net/
-  head: b55a0e0
+  head: 63fbf3c
   archived: false
   latestVersion: "v0.9.12"
   latestRelease: "v0.9.12"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:08:52Z
+  collectedAt: 2026-09-11T04:40:04Z
 timeline:
   created: 2026-01-19
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-05
   lastRelease: 2026-09-05
   lastPrerelease: 
 popularity:
-  star: 40942
+  star: 40945
   watcher: 167
-  fork: 3555
+  fork: 3556
   release: 136
   contributor: 217
   pullRequest: 3156
-  issue: 2695
+  issue: 2698
 language:
-  Rust: 45365782
-  TypeScript: 1642596
+  Rust: 45367932
+  TypeScript: 1643090
   JavaScript: 1194989
   Python: 504876
   Shell: 303877
@@ -38,71 +38,71 @@ language:
   Nix: 6567
   NSIS: 6457
   Batchfile: 2444
-totalBytes: 49340203
+totalBytes: 49342847
 recent:
   last30d:
     since: 2026-08-12
     release: 7
     mergedPR: 338
     openPR: 9
-    closedIssue: 179
-    openIssue: 79
-    commit: 1654
+    closedIssue: 180
+    openIssue: 81
+    commit: 1656
   last60d:
     since: 2026-07-13
     release: 13
     mergedPR: 747
     openPR: 9
-    closedIssue: 588
-    openIssue: 96
-    commit: 3868
+    closedIssue: 589
+    openIssue: 98
+    commit: 3870
   last90d:
     since: 2026-06-13
     release: 22
     mergedPR: 1218
     openPR: 9
-    closedIssue: 1097
-    openIssue: 111
-    commit: 5267
+    closedIssue: 1098
+    openIssue: 113
+    commit: 5269
   last180d:
     since: 2026-03-15
     release: 100
     mergedPR: 1996
     openPR: 9
-    closedIssue: 2574
-    openIssue: 121
-    commit: 7644
+    closedIssue: 2575
+    openIssue: 123
+    commit: 7646
   last360d:
     since: 2025-09-16
     release: 100
     mergedPR: 2001
     openPR: 9
-    closedIssue: 2574
-    openIssue: 121
-    commit: 7740
+    closedIssue: 2575
+    openIssue: 123
+    commit: 7742
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 2001
     openPR: 9
-    closedIssue: 2574
-    openIssue: 121
-    commit: 9472
+    closedIssue: 2575
+    openIssue: 123
+    commit: 9474
 total:
   release: 136
   mergedPR: 2001
   openPR: 9
-  closedIssue: 2574
-  openIssue: 121
-  commit: 9472
+  closedIssue: 2575
+  openIssue: 123
+  commit: 9474
 ---
 path: /home/runner/.x-repo/github.com/Hmbown/CodeWhale
-collectedAt: 2026-09-11T00:09:28Z
+collectedAt: 2026-09-11T04:40:31Z
 loc:
   Rust:
-    code: 994495
-    comments: 40930
-    blanks: 76134
+    code: 994526
+    comments: 40937
+    blanks: 76135
     files: 1048
   Json:
     code: 67722
@@ -115,7 +115,7 @@ loc:
     blanks: 2090
     files: 120
   TypeScript:
-    code: 24128
+    code: 24129
     comments: 2824
     blanks: 2331
     files: 232
@@ -201,8 +201,8 @@ loc:
     files: 11
   Markdown:
     code: 0
-    comments: 48611
-    blanks: 10621
+    comments: 48657
+    blanks: 10623
     files: 251
   Text:
     code: 0
@@ -210,9 +210,9 @@ loc:
     blanks: 739
     files: 45
 total:
-  code: 1151302
-  comments: 163632
-  blanks: 101466
+  code: 1151334
+  comments: 163690
+  blanks: 101469
   files: 2033
 ---
 
