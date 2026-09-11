@@ -12,6 +12,18 @@ Open-source coding agent for your terminal, built in Rust and on a journey of co
 x install CodeWhale
 ```
 
+## Code insight
+
+Total: **1,146,588** lines of code across **1514** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 994,495 | 40,930 | 76,134 | 1048 |
+| Json | 67,722 | 0 | 0 | 78 |
+| JavaScript | 26,700 | 1,333 | 2,090 | 120 |
+| TypeScript | 24,128 | 2,824 | 2,331 | 232 |
+| Python | 10,742 | 371 | 1,421 | 36 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Hmbown/CodeWhale>
@@ -23,6 +35,25 @@ x install CodeWhale
 - **Latest**: `v0.9.12` (2026-09-05)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 34
+
+## Popularity
+
+- **Stars**: 40,942 · **Forks**: 3,555 · **Open issues**: 2,695 · **Contributors**: 217
+
+## Totals (cumulative)
+
+- **Releases**: 136 · **Merged PRs**: 2001 · **Open PRs**: 9 · **Closed issues**: 2574 · **Open issues**: 121 · **Commits**: 9472
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 7 | 338 | 9 | 179 | 79 | 1654 |
+| last60d | 2026-07-13 | 13 | 747 | 9 | 588 | 96 | 3868 |
+| 90d | 2026-06-13 | 22 | 1218 | 9 | 1097 | 111 | 5267 |
+| last180d | 2026-03-15 | 100 | 1996 | 9 | 2574 | 121 | 7644 |
+| 360d | 2025-09-16 | 100 | 2001 | 9 | 2574 | 121 | 7740 |
+| last720d | 2024-09-21 | 100 | 2001 | 9 | 2574 | 121 | 9472 |
 
 ## Release assets
 
@@ -63,34 +94,6 @@ x install CodeWhale
 | [codewhale.bat](https://github.com/Hmbown/CodeWhale/releases/download/v0.9.12/codewhale.bat) | 196 B | `other` |
 | [CodeWhaleSetup.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.9.12/CodeWhaleSetup.exe) | 29.4 MiB | `other` |
 
-## Popularity
-
-- **Stars**: 40,939 · **Forks**: 3,555 · **Open issues**: 2,692 · **Contributors**: 217
-
-## Totals (cumulative)
-
-- **Releases**: 136 · **Merged PRs**: 2001 · **Open PRs**: 9 · **Closed issues**: 2572 · **Open issues**: 120 · **Commits**: 9456
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 7 | 349 | 9 | 182 | 78 | 1638 |
-| 90d | 2026-06-12 | 22 | 1219 | 9 | 1104 | 110 | 5251 |
-| 360d | 2025-09-15 | 100 | 2001 | 9 | 2572 | 120 | 7724 |
-
-## Code size
-
-Total: **1,145,890** lines of code across **1514** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 993,910 | 40,869 | 76,094 | 1048 |
-| Json | 67,618 | 0 | 0 | 78 |
-| JavaScript | 26,700 | 1,333 | 2,090 | 120 |
-| TypeScript | 24,126 | 2,824 | 2,331 | 232 |
-| Python | 10,742 | 371 | 1,421 | 36 |
-
 ## Improve this data
 
 Install metadata for CodeWhale lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `CodeWhale` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -100,4 +103,4 @@ Install metadata for CodeWhale lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:25:58Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:09:35Z._
