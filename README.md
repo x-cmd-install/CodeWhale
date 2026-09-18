@@ -14,14 +14,14 @@ x install CodeWhale
 
 ## Code insight
 
-Total: **1,218,988** lines of code across **1670** files in the top 5 languages.
+Total: **1,221,482** lines of code across **1667** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,044,334 | 43,157 | 78,308 | 1122 |
-| Json | 70,239 | 0 | 0 | 88 |
-| JavaScript | 35,669 | 1,872 | 2,298 | 150 |
-| TypeScript | 28,917 | 3,135 | 2,483 | 268 |
+| Rust | 1,043,588 | 43,739 | 78,325 | 1111 |
+| Json | 69,961 | 0 | 0 | 88 |
+| JavaScript | 38,081 | 2,148 | 2,453 | 157 |
+| TypeScript | 29,169 | 3,135 | 2,490 | 269 |
 | Python | 11,973 | 416 | 1,535 | 42 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **1,218,988** lines of code across **1670** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.13` (2026-09-14)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 - **Assets in release**: 34
 
 ## Popularity
 
-- **Stars**: 40,988 · **Forks**: 3,563 · **Open issues**: 2,863 · **Contributors**: 219
+- **Stars**: 40,998 · **Forks**: 3,562 · **Open issues**: 2,887 · **Contributors**: 221
 
 ## Totals (cumulative)
 
-- **Releases**: 137 · **Merged PRs**: 2041 · **Open PRs**: 9 · **Closed issues**: 2730 · **Open issues**: 133 · **Commits**: 9840
+- **Releases**: 137 · **Merged PRs**: 2041 · **Open PRs**: 8 · **Closed issues**: 2754 · **Open issues**: 133 · **Commits**: 9920
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 5 | 286 | 9 | 252 | 117 | 1391 |
-| last60d | 2026-07-19 | 13 | 670 | 9 | 659 | 126 | 3662 |
-| 90d | 2026-06-19 | 19 | 1233 | 9 | 1175 | 129 | 5301 |
-| last180d | 2026-03-21 | 100 | 2036 | 9 | 2730 | 133 | 7975 |
-| 360d | 2025-09-22 | 100 | 2041 | 9 | 2730 | 133 | 8071 |
-| last720d | 2024-09-27 | 100 | 2041 | 9 | 2730 | 133 | 9840 |
+| 30d | 2026-08-19 | 4 | 283 | 8 | 273 | 117 | 1471 |
+| last60d | 2026-07-20 | 13 | 652 | 8 | 641 | 126 | 3742 |
+| 90d | 2026-06-20 | 19 | 1232 | 8 | 1199 | 129 | 5381 |
+| last180d | 2026-03-22 | 100 | 2036 | 8 | 2754 | 133 | 8055 |
+| 360d | 2025-09-23 | 100 | 2041 | 8 | 2754 | 133 | 8151 |
+| last720d | 2024-09-28 | 100 | 2041 | 8 | 2754 | 133 | 9920 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for CodeWhale lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:07:15Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:44:39Z._
