@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 69380232,
       "digest": "sha256:befefe2ef41942225105a5d00c432cb1770136a99678c8f6ac6380f74a6a377b",
-      "download_count": 26,
+      "download_count": 35,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codew-android-arm64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 66524976,
       "digest": "sha256:f3e2d82257cac33ef033f033a9638cb00189a3334deb58fbff7b89aed218273a",
-      "download_count": 49,
+      "download_count": 66,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codew-linux-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 81753984,
       "digest": "sha256:c443c2c32c743dd80ff56397b1e7bbfe55b1ca6306ff55065b977bc655d50ed1",
-      "download_count": 446,
+      "download_count": 579,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:32Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codew-linux-x64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 66945936,
       "digest": "sha256:25774dadc725272f56a1734f1d2b24dd1051e9b43d7b39a30c460dfbbb0bb6e4",
-      "download_count": 259,
+      "download_count": 334,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codew-macos-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 74878256,
       "digest": "sha256:2ab6a8c73333cb70dd951229c38ea13ac9a9b24dbd64dcf605ec55d2958d5456",
-      "download_count": 42,
+      "download_count": 51,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codew-macos-x64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 80603136,
       "digest": "sha256:8e7fee606ea2bbda3c87a8041530bd16f0358710ccb6a2b268c31d53e2fa2eb1",
-      "download_count": 18,
+      "download_count": 22,
       "created_at": "2026-09-22T17:28:22Z",
       "updated_at": "2026-09-22T17:28:32Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codew-windows-arm64.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 100331520,
       "digest": "sha256:f7b35a1e928f67884637f36b01fc72854f50690130f191bac3bcf62ece3c1d84",
-      "download_count": 460,
+      "download_count": 565,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:33Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codew-windows-x64.exe"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 69380232,
       "digest": "sha256:befefe2ef41942225105a5d00c432cb1770136a99678c8f6ac6380f74a6a377b",
-      "download_count": 27,
+      "download_count": 37,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-android-arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 64333087,
       "digest": "sha256:fb844b1cea5e27de1cbca9beb6e1b01ba8b40d5679b210eb5ac928ca91681e1d",
-      "download_count": 17,
+      "download_count": 22,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-android-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2995,
       "digest": "sha256:92dc7ef26850c0d1f59127df1dbd3a59fa55ed8e510979721c9a7d4001596e34",
-      "download_count": 1442,
+      "download_count": 1829,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:22Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-artifacts-sha256.txt"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 863,
       "digest": "sha256:79cb39c1b79f715ffe762baa42afbdcc321a1f4b81b3eadda710c20b8d68ec0b",
-      "download_count": 28,
+      "download_count": 34,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:22Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-bundles-sha256.txt"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 66524976,
       "digest": "sha256:f3e2d82257cac33ef033f033a9638cb00189a3334deb58fbff7b89aed218273a",
-      "download_count": 78,
+      "download_count": 104,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-linux-arm64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 64424461,
       "digest": "sha256:6f4de4a7e4dc9789d1785a6a8954c7e89fa28e14fc98f639c3a3e14f54cd3348",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-linux-arm64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 81753984,
       "digest": "sha256:c443c2c32c743dd80ff56397b1e7bbfe55b1ca6306ff55065b977bc655d50ed1",
-      "download_count": 656,
+      "download_count": 847,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:32Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-linux-x64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 70046656,
       "digest": "sha256:e5db28d633fe3cff40f482858bd9b97ffd0839d7e38bed961e704fdcc7dfbf3e",
-      "download_count": 35,
+      "download_count": 47,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-linux-x64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 66945936,
       "digest": "sha256:25774dadc725272f56a1734f1d2b24dd1051e9b43d7b39a30c460dfbbb0bb6e4",
-      "download_count": 358,
+      "download_count": 456,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-macos-arm64"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 63128586,
       "digest": "sha256:5291d620657bfa6b22d60d52e37fa3dc451be979b178110461e58f6f8a26931c",
-      "download_count": 23,
+      "download_count": 25,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:30Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-macos-arm64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 74878256,
       "digest": "sha256:2ab6a8c73333cb70dd951229c38ea13ac9a9b24dbd64dcf605ec55d2958d5456",
-      "download_count": 68,
+      "download_count": 87,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-macos-x64"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 67603353,
       "digest": "sha256:4a5bccbcedf3daecd301942b422324d13917e2679a638123ed7399f3cab6d6c9",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-macos-x64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 69380232,
       "digest": "sha256:befefe2ef41942225105a5d00c432cb1770136a99678c8f6ac6380f74a6a377b",
-      "download_count": 14,
+      "download_count": 17,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-tui-android-arm64"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 66524976,
       "digest": "sha256:f3e2d82257cac33ef033f033a9638cb00189a3334deb58fbff7b89aed218273a",
-      "download_count": 16,
+      "download_count": 21,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-tui-linux-arm64"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 81753984,
       "digest": "sha256:c443c2c32c743dd80ff56397b1e7bbfe55b1ca6306ff55065b977bc655d50ed1",
-      "download_count": 52,
+      "download_count": 95,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:32Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-tui-linux-x64"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 66945936,
       "digest": "sha256:25774dadc725272f56a1734f1d2b24dd1051e9b43d7b39a30c460dfbbb0bb6e4",
-      "download_count": 22,
+      "download_count": 30,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-tui-macos-arm64"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 74878256,
       "digest": "sha256:2ab6a8c73333cb70dd951229c38ea13ac9a9b24dbd64dcf605ec55d2958d5456",
-      "download_count": 19,
+      "download_count": 23,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:32Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-tui-macos-x64"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 80603136,
       "digest": "sha256:8e7fee606ea2bbda3c87a8041530bd16f0358710ccb6a2b268c31d53e2fa2eb1",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:32Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-tui-windows-arm64.exe"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 100331520,
       "digest": "sha256:f7b35a1e928f67884637f36b01fc72854f50690130f191bac3bcf62ece3c1d84",
-      "download_count": 95,
+      "download_count": 114,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:33Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-tui-windows-x64.exe"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 67699078,
       "digest": "sha256:27d1f77fb8495fbc3e3c45dc70ab95361ae58e410a61df5a6d951f83d800fd4d",
-      "download_count": 26,
+      "download_count": 29,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:30Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-windows-arm64-portable.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 80603136,
       "digest": "sha256:8e7fee606ea2bbda3c87a8041530bd16f0358710ccb6a2b268c31d53e2fa2eb1",
-      "download_count": 34,
+      "download_count": 44,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:32Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-windows-arm64.exe"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 67699733,
       "digest": "sha256:cd139fa422707af11373d203fd99ed523b350d46bbc6aeccb08bc8cbf8a83581",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-windows-arm64.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 72410428,
       "digest": "sha256:cfdd13ecb92d559fe36799025e7c1958341a057d8e6bb4f3c07baba03cf3b1d7",
-      "download_count": 136,
+      "download_count": 156,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:31Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-windows-x64-portable.zip"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 100331520,
       "digest": "sha256:f7b35a1e928f67884637f36b01fc72854f50690130f191bac3bcf62ece3c1d84",
-      "download_count": 597,
+      "download_count": 705,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:32Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-windows-x64.exe"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 72411079,
       "digest": "sha256:f47da7eb64ae609e3772a87d3262d33c6d22da91474b24ee79322faa3f7d64ea",
-      "download_count": 49,
+      "download_count": 57,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:32Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale-windows-x64.zip"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 196,
       "digest": "sha256:1c330fc3ca5530438d6d787951faf00893af4e5fa4b5326f0c167ee974790d16",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:22Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/codewhale.bat"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 36031745,
       "digest": "sha256:694d23f99ff6e28023b4880ba05a592da03f75553e5b8251abb51044e1a32c74",
-      "download_count": 43,
+      "download_count": 50,
       "created_at": "2026-09-22T17:28:21Z",
       "updated_at": "2026-09-22T17:28:27Z",
       "browser_download_url": "https://github.com/Hmbown/Codewhale/releases/download/v0.10.0/CodeWhaleSetup.exe"
