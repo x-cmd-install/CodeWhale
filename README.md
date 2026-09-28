@@ -38,22 +38,22 @@ Total: **1,305,844** lines of code across **1828** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 41,033 · **Forks**: 3,564 · **Open issues**: 3,017 · **Contributors**: 224
+- **Stars**: 41,035 · **Forks**: 3,565 · **Open issues**: 3,021 · **Contributors**: 224
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 2197 · **Open PRs**: 37 · **Closed issues**: 2843 · **Open issues**: 174 · **Commits**: 10921
+- **Releases**: 138 · **Merged PRs**: 2202 · **Open PRs**: 52 · **Closed issues**: 2843 · **Open issues**: 178 · **Commits**: 10921
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 3 | 365 | 37 | 305 | 152 | 1249 |
-| last60d | 2026-07-29 | 13 | 664 | 37 | 581 | 167 | 2125 |
-| 90d | 2026-06-29 | 17 | 1120 | 37 | 1161 | 170 | 4767 |
-| last180d | 2026-03-31 | 100 | 2192 | 37 | 2843 | 174 | 9270 |
-| 360d | 2025-10-02 | 100 | 2197 | 37 | 2843 | 174 | 9500 |
-| last720d | 2024-10-07 | 100 | 2197 | 37 | 2843 | 174 | 10921 |
+| 30d | 2026-08-29 | 3 | 353 | 52 | 302 | 155 | 1249 |
+| last60d | 2026-07-30 | 13 | 663 | 52 | 576 | 170 | 2125 |
+| 90d | 2026-06-30 | 17 | 1110 | 52 | 1129 | 174 | 4767 |
+| last180d | 2026-04-01 | 100 | 2197 | 52 | 2843 | 178 | 9270 |
+| 360d | 2025-10-03 | 100 | 2202 | 52 | 2843 | 178 | 9500 |
+| last720d | 2024-10-08 | 100 | 2202 | 52 | 2843 | 178 | 10921 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for CodeWhale lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:26:37Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:25:07Z._
