@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 
 [![x-cmd/install — CodeWhale Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/CodeWhale.svg?lang=zh)](https://x-cmd.com/install/CodeWhale)
 
@@ -14,15 +14,15 @@ x install CodeWhale
 
 ## 代码洞察
 
-合计: **1,883,405** 行代码（覆盖前 5 种语言、共 **2841** 个文件）。
+合计: **1,905,764** 行代码（覆盖前 5 种语言、共 **2853** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 1,343,317 | 53,998 | 92,561 | 1543 |
-| Json | 321,902 | 0 | 0 | 527 |
-| JavaScript | 125,220 | 6,991 | 3,452 | 301 |
-| TypeScript | 43,760 | 5,234 | 3,541 | 408 |
-| Python | 16,244 | 594 | 2,074 | 62 |
+| Rust | 1,356,933 | 54,427 | 93,018 | 1554 |
+| Json | 329,539 | 0 | 0 | 527 |
+| JavaScript | 125,577 | 7,000 | 3,468 | 301 |
+| TypeScript | 44,162 | 5,128 | 3,546 | 408 |
+| Python | 16,485 | 611 | 2,099 | 63 |
 
 ## 源代码
 
@@ -33,27 +33,27 @@ x install CodeWhale
 ## 发布
 
 - **最新版本**: `v0.10.1` (2026-10-08)
-- **最近提交**: 2026-10-08
+- **最近提交**: 2026-10-09
 - **Release 含资产**: 34 个
 
 ## 流行度
 
-- **Star**: 41,082 · **Fork**: 3,569 · **开放 issue**: 3,089 · **贡献者**: 231
+- **Star**: 41,080 · **Fork**: 3,567 · **开放 issue**: 3,097 · **贡献者**: 231
 
 ## 累计统计
 
-- **发布数**: 139 · **已合并 PR**: 2380 · **开放 PR**: 17 · **已关闭 issue**: 2904 · **开放 issue**: 185 · **提交数**: 12471
+- **发布数**: 139 · **已合并 PR**: 2389 · **开放 PR**: 18 · **已关闭 issue**: 2907 · **开放 issue**: 190 · **提交数**: 12557
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-09 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-10 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-11 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-13 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-18 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-09 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-10 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-11 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-12 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-14 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-19 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -103,4 +103,4 @@ CodeWhale 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261008.yml` · 2026-10-08T06:18:12Z._
+_数据快照: `data/card/261009.yml` · 2026-10-09T06:09:18Z._
