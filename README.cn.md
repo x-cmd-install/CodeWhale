@@ -14,15 +14,15 @@ x install CodeWhale
 
 ## 代码洞察
 
-合计: **2,132,620** 行代码（覆盖前 5 种语言、共 **3382** 个文件）。
+合计: **2,142,814** 行代码（覆盖前 5 种语言、共 **3384** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 1,661,102 | 65,069 | 105,108 | 1814 |
-| Json | 213,008 | 0 | 0 | 632 |
-| JavaScript | 141,854 | 5,920 | 3,263 | 293 |
-| TypeScript | 62,172 | 4,988 | 4,561 | 560 |
-| Python | 22,859 | 636 | 2,724 | 83 |
+| Rust | 1,669,412 | 65,256 | 105,598 | 1815 |
+| Json | 213,859 | 0 | 0 | 632 |
+| JavaScript | 142,460 | 5,725 | 3,240 | 293 |
+| TypeScript | 62,260 | 4,988 | 4,580 | 561 |
+| Python | 22,912 | 636 | 2,726 | 83 |
 
 ## 源代码
 
@@ -32,71 +32,71 @@ x install CodeWhale
 
 ## 发布
 
-- **最新版本**: `v0.10.3` (2026-11-22)
-- **最近提交**: 2026-11-23
+- **最新版本**: `v0.10.4` (2026-11-23)
+- **最近提交**: 2026-11-24
 - **Release 含资产**: 38 个
 
 ## 流行度
 
-- **Star**: 41,198 · **Fork**: 3,575 · **开放 issue**: 3,284 · **贡献者**: 283
+- **Star**: 41,196 · **Fork**: 3,578 · **开放 issue**: 3,285 · **贡献者**: 285
 
 ## 累计统计
 
-- **发布数**: 141 · **已合并 PR**: 2691 · **开放 PR**: 24 · **已关闭 issue**: 3203 · **开放 issue**: 81 · **提交数**: 15434
+- **发布数**: 142 · **已合并 PR**: 2726 · **开放 PR**: 18 · **已关闭 issue**: 3214 · **开放 issue**: 71 · **提交数**: 15664
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 39 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-03 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-25 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 39 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-29 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-04 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [codew-android-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codew-android-arm64) | 121.8 MiB | `other` |
-| [codew-linux-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codew-linux-arm64) | 117.0 MiB | `native/linux/arm64` |
-| [codew-linux-x64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codew-linux-x64) | 143.8 MiB | `other` |
-| [codew-macos-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codew-macos-arm64) | 118.2 MiB | `native/darwin/arm64` |
-| [codew-macos-x64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codew-macos-x64) | 133.5 MiB | `native/darwin/x64` |
-| [codew-ohos-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codew-ohos-arm64) | 120.9 MiB | `other` |
-| [codew-windows-arm64.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codew-windows-arm64.exe) | 145.3 MiB | `native/win/arm64` |
-| [codew-windows-x64.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codew-windows-x64.exe) | 182.8 MiB | `native/win/x64` |
-| [codewhale-android-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-android-arm64) | 121.8 MiB | `other` |
-| [codewhale-android-arm64.tar.gz](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-android-arm64.tar.gz) | 113.0 MiB | `native/linux/arm64` |
-| [codewhale-artifacts-sha256.txt](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-artifacts-sha256.txt) | 3.3 KiB | `other` |
-| [codewhale-bundles-sha256.txt](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-bundles-sha256.txt) | 957 B | `other` |
-| [codewhale-linux-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-linux-arm64) | 117.0 MiB | `native/linux/arm64` |
-| [codewhale-linux-arm64.tar.gz](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-linux-arm64.tar.gz) | 112.5 MiB | `native/linux/arm64` |
-| [codewhale-linux-x64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-linux-x64) | 143.8 MiB | `other` |
-| [codewhale-linux-x64.tar.gz](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-linux-x64.tar.gz) | 122.5 MiB | `native/unknown` |
-| [codewhale-macos-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-macos-arm64) | 118.2 MiB | `native/darwin/arm64` |
-| [codewhale-macos-arm64.tar.gz](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-macos-arm64.tar.gz) | 110.6 MiB | `native/darwin/arm64` |
-| [codewhale-macos-x64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-macos-x64) | 133.5 MiB | `native/darwin/x64` |
-| [codewhale-macos-x64.tar.gz](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-macos-x64.tar.gz) | 118.9 MiB | `native/darwin/x64` |
-| [codewhale-ohos-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-ohos-arm64) | 120.9 MiB | `other` |
-| [codewhale-ohos-arm64.tar.gz](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-ohos-arm64.tar.gz) | 112.0 MiB | `native/linux/arm64` |
-| [codewhale-tui-android-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-tui-android-arm64) | 121.8 MiB | `other` |
-| [codewhale-tui-linux-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-tui-linux-arm64) | 117.0 MiB | `native/linux/arm64` |
-| [codewhale-tui-linux-x64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-tui-linux-x64) | 143.8 MiB | `other` |
-| [codewhale-tui-macos-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-tui-macos-arm64) | 118.2 MiB | `native/darwin/arm64` |
-| [codewhale-tui-macos-x64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-tui-macos-x64) | 133.5 MiB | `native/darwin/x64` |
-| [codewhale-tui-ohos-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-tui-ohos-arm64) | 120.9 MiB | `other` |
-| [codewhale-tui-windows-arm64.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-tui-windows-arm64.exe) | 145.3 MiB | `native/win/arm64` |
-| [codewhale-tui-windows-x64.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-tui-windows-x64.exe) | 182.8 MiB | `native/win/x64` |
-| [codewhale-windows-arm64-portable.zip](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-windows-arm64-portable.zip) | 120.6 MiB | `native/win/arm64` |
-| [codewhale-windows-arm64.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-windows-arm64.exe) | 145.3 MiB | `native/win/arm64` |
-| [codewhale-windows-arm64.zip](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-windows-arm64.zip) | 120.6 MiB | `native/win/arm64` |
-| [codewhale-windows-x64-portable.zip](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-windows-x64-portable.zip) | 129.6 MiB | `native/win/x64` |
-| [codewhale-windows-x64.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-windows-x64.exe) | 182.8 MiB | `native/win/x64` |
-| [codewhale-windows-x64.zip](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale-windows-x64.zip) | 129.6 MiB | `native/win/x64` |
-| [codewhale.bat](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/codewhale.bat) | 196 B | `other` |
-| [CodeWhaleSetup.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.3/CodeWhaleSetup.exe) | 64.3 MiB | `other` |
+| [codew-android-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codew-android-arm64) | 121.9 MiB | `other` |
+| [codew-linux-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codew-linux-arm64) | 117.0 MiB | `native/linux/arm64` |
+| [codew-linux-x64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codew-linux-x64) | 143.9 MiB | `other` |
+| [codew-macos-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codew-macos-arm64) | 118.4 MiB | `native/darwin/arm64` |
+| [codew-macos-x64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codew-macos-x64) | 133.6 MiB | `native/darwin/x64` |
+| [codew-ohos-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codew-ohos-arm64) | 121.0 MiB | `other` |
+| [codew-windows-arm64.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codew-windows-arm64.exe) | 145.5 MiB | `native/win/arm64` |
+| [codew-windows-x64.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codew-windows-x64.exe) | 183.0 MiB | `native/win/x64` |
+| [codewhale-android-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-android-arm64) | 121.9 MiB | `other` |
+| [codewhale-android-arm64.tar.gz](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-android-arm64.tar.gz) | 113.1 MiB | `native/linux/arm64` |
+| [codewhale-artifacts-sha256.txt](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-artifacts-sha256.txt) | 3.3 KiB | `other` |
+| [codewhale-bundles-sha256.txt](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-bundles-sha256.txt) | 957 B | `other` |
+| [codewhale-linux-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-linux-arm64) | 117.0 MiB | `native/linux/arm64` |
+| [codewhale-linux-arm64.tar.gz](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-linux-arm64.tar.gz) | 112.6 MiB | `native/linux/arm64` |
+| [codewhale-linux-x64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-linux-x64) | 143.9 MiB | `other` |
+| [codewhale-linux-x64.tar.gz](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-linux-x64.tar.gz) | 122.6 MiB | `native/unknown` |
+| [codewhale-macos-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-macos-arm64) | 118.4 MiB | `native/darwin/arm64` |
+| [codewhale-macos-arm64.tar.gz](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-macos-arm64.tar.gz) | 110.8 MiB | `native/darwin/arm64` |
+| [codewhale-macos-x64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-macos-x64) | 133.6 MiB | `native/darwin/x64` |
+| [codewhale-macos-x64.tar.gz](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-macos-x64.tar.gz) | 118.9 MiB | `native/darwin/x64` |
+| [codewhale-ohos-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-ohos-arm64) | 121.0 MiB | `other` |
+| [codewhale-ohos-arm64.tar.gz](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-ohos-arm64.tar.gz) | 112.1 MiB | `native/linux/arm64` |
+| [codewhale-tui-android-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-tui-android-arm64) | 121.9 MiB | `other` |
+| [codewhale-tui-linux-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-tui-linux-arm64) | 117.0 MiB | `native/linux/arm64` |
+| [codewhale-tui-linux-x64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-tui-linux-x64) | 143.9 MiB | `other` |
+| [codewhale-tui-macos-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-tui-macos-arm64) | 118.4 MiB | `native/darwin/arm64` |
+| [codewhale-tui-macos-x64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-tui-macos-x64) | 133.6 MiB | `native/darwin/x64` |
+| [codewhale-tui-ohos-arm64](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-tui-ohos-arm64) | 121.0 MiB | `other` |
+| [codewhale-tui-windows-arm64.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-tui-windows-arm64.exe) | 145.5 MiB | `native/win/arm64` |
+| [codewhale-tui-windows-x64.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-tui-windows-x64.exe) | 183.0 MiB | `native/win/x64` |
+| [codewhale-windows-arm64-portable.zip](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-windows-arm64-portable.zip) | 120.7 MiB | `native/win/arm64` |
+| [codewhale-windows-arm64.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-windows-arm64.exe) | 145.5 MiB | `native/win/arm64` |
+| [codewhale-windows-arm64.zip](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-windows-arm64.zip) | 120.7 MiB | `native/win/arm64` |
+| [codewhale-windows-x64-portable.zip](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-windows-x64-portable.zip) | 129.7 MiB | `native/win/x64` |
+| [codewhale-windows-x64.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-windows-x64.exe) | 183.0 MiB | `native/win/x64` |
+| [codewhale-windows-x64.zip](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale-windows-x64.zip) | 129.7 MiB | `native/win/x64` |
+| [codewhale.bat](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/codewhale.bat) | 196 B | `other` |
+| [CodeWhaleSetup.exe](https://github.com/Hmbown/CodeWhale/releases/download/v0.10.4/CodeWhaleSetup.exe) | 64.4 MiB | `other` |
 
 ## 改进这些数据
 
@@ -107,4 +107,4 @@ CodeWhale 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T07:54:09Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T09:56:39Z._
