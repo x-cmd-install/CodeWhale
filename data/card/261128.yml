@@ -1,0 +1,208 @@
+about:
+  description: "Open-source Rust coding agent for terminal, web, and desktop. Any model, multi-agent fleets, MCP & plugins, OS sandboxing, and session receipts."
+  license: MIT
+  homepage: https://codewhale.net/
+  head: ca01715
+  archived: false
+  latestVersion: "v0.10.4"
+  latestRelease: "v0.10.4"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:13:32Z
+timeline:
+  created: 2026-01-19
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-23
+  lastRelease: 2026-11-23
+  lastPrerelease: 
+popularity:
+  star: 41219
+  watcher: 157
+  fork: 3578
+  release: 142
+  contributor: 290
+  pullRequest: 4046
+  issue: 3287
+language:
+  Rust: 73004004
+  TypeScript: 4077122
+  JavaScript: 2299536
+  Python: 1094838
+  Shell: 468081
+  CSS: 208276
+  HTML: 59179
+  PLpgSQL: 53009
+  PowerShell: 49294
+  Gherkin: 21192
+  NSIS: 12650
+  Nix: 6573
+  Dockerfile: 5359
+  Batchfile: 1338
+totalBytes: 81360451
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 2
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 4
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 7
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 38
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 142
+  mergedPR: 2765
+  openPR: 15
+  closedIssue: 3227
+  openIssue: 60
+  commit: 16024
+---
+path: /home/runner/.x-repo/github.com/Hmbown/CodeWhale
+collectedAt: 2026-11-28T08:15:01Z
+loc:
+  Rust:
+    code: 1688121
+    comments: 65165
+    blanks: 106822
+    files: 1819
+  Json:
+    code: 209874
+    comments: 0
+    blanks: 0
+    files: 635
+  JavaScript:
+    code: 147140
+    comments: 5828
+    blanks: 3290
+    files: 282
+  TypeScript:
+    code: 62782
+    comments: 4934
+    blanks: 4700
+    files: 555
+  Python:
+    code: 23269
+    comments: 631
+    blanks: 2773
+    files: 83
+  Sh:
+    code: 9497
+    comments: 1362
+    blanks: 1149
+    files: 87
+  Tsx:
+    code: 8656
+    comments: 1065
+    blanks: 595
+    files: 133
+  Css:
+    code: 5519
+    comments: 342
+    blanks: 528
+    files: 32
+  Toml:
+    code: 4089
+    comments: 3559
+    blanks: 703
+    files: 71
+  Sql:
+    code: 1234
+    comments: 164
+    blanks: 103
+    files: 9
+  PowerShell:
+    code: 1031
+    comments: 4
+    blanks: 74
+    files: 9
+  Yaml:
+    code: 977
+    comments: 209
+    blanks: 124
+    files: 22
+  Gherkin:
+    code: 357
+    comments: 12
+    blanks: 38
+    files: 10
+  Html:
+    code: 280
+    comments: 8
+    blanks: 31
+    files: 4
+  Nix:
+    code: 194
+    comments: 25
+    blanks: 22
+    files: 2
+  Svg:
+    code: 92
+    comments: 0
+    blanks: 0
+    files: 46
+  Dockerfile:
+    code: 54
+    comments: 25
+    blanks: 14
+    files: 1
+  Batch:
+    code: 37
+    comments: 1
+    blanks: 3
+    files: 3
+  Markdown:
+    code: 0
+    comments: 129180
+    blanks: 28645
+    files: 501
+  Text:
+    code: 0
+    comments: 3608
+    blanks: 903
+    files: 151
+total:
+  code: 2169523
+  comments: 300771
+  blanks: 157751
+  files: 4455
+---
+
+---
